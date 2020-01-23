@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 using Registro.DAL.Scripts;
 using Microsoft.EntityFrameworkCore;
 
-
+;;
 namespace Registro.BLL
 {
     public class PersonasBLL
